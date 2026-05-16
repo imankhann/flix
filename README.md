@@ -16,8 +16,8 @@ cd in the Flix directory in your terminal. Enter:
 
 ```/path/to/bin/mysql -u root -p```
 
-For Iman Ahsan: ```/usr/local/mysql/bin/mysql -u root -p```  
-For Iman Khan + Adnan Habib" ```/opt/homebrew/bin/mysql -u root -p```   
+```/usr/local/mysql/bin/mysql -u root -p```  
+```/opt/homebrew/bin/mysql -u root -p```   
 
 Then in the MySQL shell enter: ```SOURCE init_db.sql;``` to initialize production tables  
 Then in the MySQL shell enter: ```SOURCE init_sample_db.sql;``` to initialize sample tables
