@@ -77,10 +77,5 @@ DROP TABLE IF EXISTS titleEpisode;
 DROP TABLE IF EXISTS nameBasics;  
 DROP TABLE IF EXISTS titleBasics;
 
-# Web App Image Showcase
-![Home Page](images/homepage.png)
-![Filtered Page](images/romance_filter.png)
-![Top-Rated Page](images/top-rated.png)
-![Directors Page](images/directors.png)
 
 
