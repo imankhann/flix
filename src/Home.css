@@ -1,0 +1,78 @@
+.filter-panel {
+  width: 250px;
+  background-color: #e0ecf1;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 2rem;
+  flex-direction:column;
+}
+
+.filter-panel h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: #123456;
+}
+
+.filter-group {
+  margin-bottom: 1.2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.filter-group label {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.filter-group select {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 1.5rem;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.buttons button {
+  padding: 0.6rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.buttons button[type="submit"] {
+  background-color: #0077b6;
+  color: white;
+}
+
+.buttons button[type="submit"]:hover {
+  background-color: #005f87;
+}
+
+.buttons .reset {
+  background-color: #e63946;
+  color: white;
+}
+
+.buttons .reset:hover {
+  background-color: #b62b36;
+}

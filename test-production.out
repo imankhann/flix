@@ -1,0 +1,89 @@
++----------------------------------------+-----------+-------------------+
+| primaryTitle                           | startYear | avgRating         |
++----------------------------------------+-----------+-------------------+
+| The Widow Casey's Return               |      1912 | 9.100000381469727 |
+| A Prize Package                        |      1912 |                 9 |
+| The Dream of a Moving Picture Director |      1912 |                 9 |
+| The Pony Express Girl                  |      1912 |                 9 |
+| The Message                            |      1909 | 8.800000190734863 |
++----------------------------------------+-----------+-------------------+
++-------------------------------------+-------------+
+| director_name                       | movie_count |
++-------------------------------------+-------------+
+| D.W. Griffith                       |         444 |
+| Gilbert M. 'Broncho Billy' Anderson |         156 |
+| Oscar Apfel                         |          17 |
+| Michael Curtiz                      |           3 |
+| Herbert Beerbohm Tree               |           2 |
+| Siegmund Lubin                      |           2 |
+| Maurice Elvey                       |           2 |
++-------------------------------------+-------------+
++------------------------------+------------------------------+-----------+----------------+-------------------+---------------+
+| primaryTitle                 | originalTitle                | startYear | runtimeMinutes | genres            | averageRating |
++------------------------------+------------------------------+-----------+----------------+-------------------+---------------+
+| Libération des territoriaux  | Libération des territoriaux  |      1896 |           NULL | Documentary,Short |             4 |
++------------------------------+------------------------------+-----------+----------------+-------------------+---------------+
++------------------------+-----------+--------------------------+---------+--------+---------------+
+| primaryTitle           | startYear | genres                   | isAdult | region | averageRating |
++------------------------+-----------+--------------------------+---------+--------+---------------+
+| The Arrival of a Train |      1896 | Documentary,Short        |       0 | US     |           7.4 |
+| The Arrival of a Train |      1896 | Documentary,Short        |       0 | US     |           7.4 |
+| The Arrival of a Train |      1896 | Documentary,Short        |       0 | US     |           7.4 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| Dancing Darkies        |      1896 | Comedy,Documentary,Short |       0 | US     |           7.1 |
++------------------------+-----------+--------------------------+---------+--------+---------------+
++---------+
+| endYear |
++---------+
+|    2024 |
++---------+
++-----------+-------------------------------+-----------+-------------------------------+-----------+---------+----------------+--------------+---------+---------------+
+| tconst    | primaryTitle                  | titleType | originalTitle                 | startYear | endYear | runtimeMinutes | genres       | isAdult | averageRating |
++-----------+-------------------------------+-----------+-------------------------------+-----------+---------+----------------+--------------+---------+---------------+
+| tt0040031 | Barney Blake, Police Reporter | tvSeries  | Barney Blake, Police Reporter |      1948 |    2025 |      30        | Crime,Drama  |       0 |      NULL     |
+| tt0040025 | America Speaks                | tvSeries  | America Speaks                |      1948 |    2025 |      15        | \N           |       0 |      NULL     |                                                                                  
+| tt0039122 | The Borden Show               | tvSeries  | The Borden Show               |      1947 |    2025 |      30        | Comedy,Music |       0 |      NULL     |
++-----------+-------------------------------+-----------+-------------------------------+-----------+---------+----------------+--------------+---------+---------------+
++------------------------+-----------+--------------------------+---------+--------+---------------+
+| primaryTitle           | startYear | genres                   | isAdult | region | averageRating |
++------------------------+-----------+--------------------------+---------+--------+---------------+
+| The Arrival of a Train |      1896 | Documentary,Short        |       0 | US     |           7.4 |
+| The Arrival of a Train |      1896 | Documentary,Short        |       0 | US     |           7.4 |
+| The Arrival of a Train |      1896 | Documentary,Short        |       0 | US     |           7.4 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
+| The Waterer Watered    |      1895 | Comedy,Short             |       0 | US     |           7.1 |
++------------------------+-----------+--------------------------+---------+--------+---------------+
++-----------+--------------------------------+--------------------------------+-----------+----------------+---------------+--------------------------+
+| tconst    | primaryTitle                   | originalTitle                  | startYear | runtimeMinutes | averageRating | genres                   |
++-----------+--------------------------------+--------------------------------+-----------+----------------+---------------+--------------------------+
+| tt0000003 | Poor Pierrot                   | Pauvre Pierrot                 |      1892 |              5 |           6.5 | Animation,Comedy,Romance |
+| tt0000009 | Miss Jerry                     | Miss Jerry                     |      1894 |             45 |           5.4 | Romance                  |
+| tt0000220 | The Artist and the Flower Girl | The Artist and the Flower Girl |      1901 |           NULL |          NULL | Romance,Short            |
+| tt0000225 | Beauty and the Beast           | La belle et la bête            |      1899 |           NULL |           5.1 | Family,Fantasy,Romance   |
+| tt0000248 | A Kiss in the Tunnel           | The Kiss in the Tunnel         |      1899 |              1 |           6.1 | Comedy,Romance,Short     |
+| tt0000363 | Magical Sword                  | The Magic Sword                |      1901 |              2 |           6.2 | Fantasy,Romance,Short    |
+| tt0000452 | The Messenger Boy's Mistake    | The Messenger Boy's Mistake    |      1903 |              2 |           4.5 | Comedy,Romance,Short     |
+| tt0000528 | Raffles, the Amateur Cracksman | Raffles, the Amateur Cracksman |      1905 |             15 |           5.4 | Adventure,Romance,Short  |
+| tt0000556 | Hævnet                         | Hævnet                         |      1907 |           NULL |          NULL | Romance,Short            |
+| tt0000557 | Kathleen Mavourneen            | Kathleen Mavourneen            |      1906 |             15 |           4.6 | Drama,Romance,Short      |
++-----------+--------------------------------+--------------------------------+-----------+----------------+---------------+--------------------------+
++-----------+---------------------------------------------+-----------+-----------+---------+---------------+-------+-----------+--------------+---------------+-------------+
+| tconst    | primaryTitle                                | titleType | startYear | endYear | averageRating | level | node_type | seasonNumber | episodeNumber | root_series |
++-----------+---------------------------------------------+-----------+-----------+---------+---------------+-------+-----------+--------------+---------------+-------------+
+| tt0039123 | Kraft Theatre                               | tvSeries  |      1947 |    1958 |          NULL |     0 | series    |         NULL |          NULL | tt0039123   |
+| tt0622281 | Double Door                                 | tvEpisode |      1947 |    NULL |          NULL |     1 | ep        |            1 |             1 | tt0039123   |
+| tt0622320 | Her Husband's Wife                          | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             1 | tt0039123   |
+| tt0622311 | Great Day                                   | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             2 | tt0039123   |
+| tt0622270 | Criminal at Large                           | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             5 | tt0039123   |
+| tt0622248 | Biography                                   | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             6 | tt0039123   |
+| tt0622407 | Old Lady Robbins                            | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             7 | tt0039123   |
+| tt0622504 | The Detour                                  | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             8 | tt0039123   |
+| tt0622552 | The Ivory Door                              | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |             9 | tt0039123   |
+| tt0622512 | The Dover Road                              | tvEpisode |      1948 |    NULL |          NULL |     1 | ep        |            2 |            11 | tt0039123   |
++-----------+---------------------------------------------+-----------+-----------+---------+---------------+-------+-----------+--------------+---------------+-------------+
+
