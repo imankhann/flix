@@ -1,7 +1,5 @@
 # Flix
 
-Team Members: Iman Ahsan (iahsan@uwaterloo.ca), Iman Khan (i75khan@uwaterloo.ca), Adnan Habib (a38habib@uwaterloo.ca), Arvind Sivaram (a22sivar@uwaterloo.ca)
-
 Production dataset: https://datasets.imdbws.com/
 
 Tech Stack: Javascript/React for the frontend, Python in the backend, MySQL for the database
